@@ -3,7 +3,7 @@ function [gamePad, time] = GamePadInput(timeOutSecs)
 % it requires Psychtoolbox
 %W. Tuten, 8/12/2016
 
-
+%%%
 if nargin == 1
     timeOutSecs = [];
 end
