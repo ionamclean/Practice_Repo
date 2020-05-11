@@ -3,6 +3,7 @@ function [expParams,st] = ExperimentParams(expParams,data)
 %Note: expParam structure will get saved. the st structure will not get
 %saved
 
+%changing the file
 
 %TRIALS & CONDITIONS
 expParams.NumbOfCond = 5;
