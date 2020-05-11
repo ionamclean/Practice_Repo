@@ -4,6 +4,7 @@ function [expParams,st] = ExperimentParams(expParams,data)
 %saved
 
 
+
 %TRIALS & CONDITIONS
 expParams.NumbOfCond = 5;
 %trials per condition - if you wanted a different number of trials per condition
